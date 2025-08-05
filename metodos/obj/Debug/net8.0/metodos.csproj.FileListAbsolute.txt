@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\bin\Debug\net8.0\metodos.exe
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\bin\Debug\net8.0\metodos.deps.json
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\bin\Debug\net8.0\metodos.runtimeconfig.json
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\bin\Debug\net8.0\metodos.dll
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\bin\Debug\net8.0\metodos.pdb
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\metodos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\metodos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\metodos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\metodos.dll
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\refint\metodos.dll
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\metodos.pdb
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\metodos.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\metodos\obj\Debug\net8.0\ref\metodos.dll
