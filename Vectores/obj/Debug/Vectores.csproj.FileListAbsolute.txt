@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\Vectores\bin\Debug\Vectores.exe.config
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\Vectores\bin\Debug\Vectores.exe
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\Vectores\bin\Debug\Vectores.pdb
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\Vectores\obj\Debug\Vectores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\Vectores\obj\Debug\Vectores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\Vectores\obj\Debug\Vectores.exe
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\Vectores\obj\Debug\Vectores.pdb
+C:\Users\Usuario\Desktop\prog\ConsoleApp2\Vectores\obj\Debug\Vectores.exe.config
